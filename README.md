@@ -1,5 +1,5 @@
 
-##Projeto: Landing Page de venda Jolivi
+##Projeto: Landing Page de venda Jolivi.
 
 
 * Na pasta __arquivos/__ do projeto encontra-se o layout de referência nas versões __ai__ e __png__ para a produção da Landing Page.
